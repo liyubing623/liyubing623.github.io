@@ -1,4 +1,4 @@
-const CACHE_NAME = "liangliang-learning-v29";
+const CACHE_NAME = "liangliang-learning-v30";
 const APP_SHELL = [
   "/",
   "/manifest.webmanifest",
