@@ -1,10 +1,10 @@
-const CACHE_NAME = "liangliang-learning-v28";
+const CACHE_NAME = "liangliang-learning-v29";
 const APP_SHELL = [
   "/",
   "/manifest.webmanifest",
-  "/icon-192.png",
-  "/icon-512.png",
-  "/apple-touch-icon.png"
+  "/icon-20260731-192.png",
+  "/icon-20260731-512.png",
+  "/apple-touch-icon-20260731.png"
 ];
 
 self.addEventListener("install", (event) => {
